@@ -34,5 +34,3 @@ This project is fully responsive and works smoothly on:
 It adapts to screen sizes automatically using **flexbox** and **media queries**.
 
 ---
-
-HELLO
